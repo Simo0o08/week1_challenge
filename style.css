@@ -245,8 +245,8 @@ border-radius: 2px;
 }
 .ptr{
     position: absolute;
-    width: 298px;
-    height: 36px;
+    width: 25px;
+    height: 50px;
     left: 572px;
     top: 576px;
 }
@@ -1210,6 +1210,45 @@ border-radius: 10px;
     .rect{
         width: 26%;
     }
+ .bookimg{
+left:2px;
+height:20px;
+width:20px;
+top:555px;
+}
+.book{
+left:25px;
+font-size:10px;
+top:535px;
+}
+
+.interactimg{
+left:140px;
+height:20px;
+width:20px;
+top:555px;
+}
+
+.interact{
+left:160px;
+font-size:10px;
+top:535px;
+}
+
+.trophyimg
+{
+left:270px;
+height:20px;
+width:20px;
+top:555px;
+}
+
+.trophy
+{
+left:290px;
+font-size:10px;
+top:535px;
+}
     .lptext{
         left:2px;
         font-size: small;
@@ -1224,7 +1263,9 @@ border-radius: 10px;
         font-size: medium;
     }
     .lptwo{
-        width: 70vp;
+        left:2px;
+height:50px;
+        width: 390px;
     }
     .learningPath{
         height: 3000px;
@@ -1242,7 +1283,8 @@ border-radius: 10px;
            top:270px;
         }
         .ptr{
-            width: 90vw;
+       left:2px;
+        width: 390px;
         }
         .lau{
             width: 90vw;
@@ -1271,7 +1313,7 @@ border-radius: 10px;
         }
       
         .choose {
-          left: 12px;
+          left:0px;
         }
         
       
@@ -1298,6 +1340,207 @@ border-radius: 10px;
           height:200px;
 	
         }
+.group{
+display:flex;
+flex-direction:row;
+
+}
+
+.gp145
+{
+left:12px;
+width:370px;
+}
+
+.gp145h6
+{
+left:12px;
+}
+.gp145h3
+{
+left:12px;
+}
+.gp145p
+{
+width:350px;
+left:12px;
+}
+
+
+.gp146
+{
+left:12px;
+width:370px;
+}
+.gp147
+{
+left:12px;
+width:370px;
+}
+.gp148
+{
+left:12px;
+width:370px;
+}
+
+#Lp5
+{
+left:12px;
+}
+#five
+{
+left:12px;
+width:370px;
+height:550px;
+}
+#frontEnd5
+{
+left:12px;
+}
+#five1
+{
+left:12px;
+width:350px;
+}
+#what
+{
+left:12px;
+top:320px;
+}
+#MFD
+{
+left:20px;
+top:350px;
+font-size:15px;
+}
+#MFD1
+{
+left:20px;
+top:400px;
+font-size:15px;
+}
+#MFD2
+{
+font-size:15px;
+left:20px;
+top:450px;
+}
+
+
+#d1
+{
+left:0px;
+}
+#d2{
+    text-align:left;
+
+left:10px;
+}
+
+#pic
+{
+display:flex;
+flex-direction:row;
+}
+#i2
+{
+left:15px;
+top:1250px;
+}
+#pi21
+{
+left:15px;
+top:1500px;
+}
+#pi22
+{
+left:30px;
+top:1550px;
+}
+
+#i3
+{
+left:15px;
+top:1700px;
+}
+#pi31
+{
+left:15px;
+top:1950px;
+}
+#pi32
+{
+left:30px;
+top:2000px;
+}
+#d3{
+left:0px;
+text-align:left;
+top:2100px;
+}
+
+#week
+{
+left:10px;
+top:2130px;
+}
+
+#tble
+{
+top:2200px;
+left:10px;
+height:1300px;
+width:380px;
+}
+
+#lhc
+{
+left:10px;
+}
+
+
+#txt
+{
+left:10px;
+width:370px;
+}
+#proTxt
+{
+line-height:15px;
+left:25px;
+}
+
+#main
+{
+display:flex;
+flex-direction:row;
+}
+
+#fun
+{
+left:12px;
+}
+#fun1
+{
+line-height:15px;
+left:25px;
+}
+#cs
+{
+left:12px;
+top:600px;
+}
+#cs1
+{
+line-height:15px;
+left:25px;
+}
+#pro
+{
+left:12px;
+top:1000px;
+}
+
       }
 
 
