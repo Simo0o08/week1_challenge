@@ -1202,7 +1202,11 @@ border-radius: 10px;
     color: #343434;
     
     }
-
+html, body
+{
+width: 100%;
+overflow-x: hidden;
+}
 
     /* responsiveness */
 
@@ -1210,11 +1214,16 @@ border-radius: 10px;
     .rect{
         width: 26%;
     }
- .bookimg{
+.bookimg{
 left:2px;
 height:20px;
 width:20px;
 top:555px;
+}
+html, body
+{
+width: 100%;
+overflow-x: hidden;
 }
 .book{
 left:25px;
